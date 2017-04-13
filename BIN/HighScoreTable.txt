@@ -1,0 +1,17 @@
+
+Player6
+120
+Player5
+140
+Player1
+140
+Player2
+160
+Player3
+960
+Player4
+580
+Player7
+110
+player2
+180
