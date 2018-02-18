@@ -1,7 +1,7 @@
 # Asteroids-Clone
 Second year Games Technology project
 
-C++ Asteroids clone developed using Microsoft Visual Studio and using a custom game engine
+C++ Asteroids clone developed using Microsoft Visual Studio.
 
 Aim of game is to control the spaceship and destroy as many asteroids as possible. 
 
